@@ -30,8 +30,8 @@
       "idVehiculo": 1,
       "precio": 2500,
       "numPasajeros": 3,
-      "posicionPart": "-33.03388706005228, -71.53321628841996",
-      "posicionDest": "-32.880518895317046, -71.24875844185961",
+      "posicionPart": "-33.03388706005228,-71.53321628841996",
+      "posicionDest": "-32.880518895317046,-71.24875844185961",
       "ptoPartida": "Sede Viña del Mar",
       "ptoDestino": "Quillota"
     }
