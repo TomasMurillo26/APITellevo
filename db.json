@@ -30,8 +30,8 @@
       "idVehiculo": 1,
       "precio": 2500,
       "numPasajeros": 3,
-      "posicionPart": [-33.03388706005228,-71.53321628841996],
-      "posicionDest": [-32.880518895317046,-71.24875844185961],
+      "posicionPart": [-71.536388, -33.030428],
+      "posicionDest": [-71.26667, -32.88333],
       "ptoPartida": "Sede Viña del Mar",
       "ptoDestino": "Quillota"
     }
@@ -60,39 +60,39 @@
     {
       "id": 1,
       "nombreCiudad": "Quillota",
-      "posicion": "-32.880518895317046,-71.24875844185961"
+      "posicion": [-71.26667, -32.88333]
     },
     {
       "id": 2,
       "nombreCiudad": "Calera",
-      "posicion": "-32.78702198017942,-71.20592230748804"
+      "posicion": [-71.19, -32.7899]
     },
     {
       "id": 3,
       "nombreCiudad": "Villa Alemana",
-      "posicion": "-33.05178174545663,-71.38996790406355"
+      "posicion": [-71.36667, -33.05]
     },
     {
       "id": 4,
       "nombreCiudad": "Quilpué",
-      "posicion": "-33.04842091130768,-71.44271225357751"
+      "posicion": [-71.45, -33.05]
     }
   ],
   "sede": [
     {
       "id": 1,
       "nombreSede": "Sede Viña del Mar",
-      "posicion": "-33.03388706005228,-71.53321628841996"
+      "posicion": [-71.536388, -33.030428]
     },
     {
       "id": 2,
       "nombreSede": "Sede Valparaíso (Calle Brasil)",
-      "posicion": "-33.044344085960965,-71.6150701772241"
+      "posicion": [-71.615591, -33.044612]
     },
     {
       "id": 3,
       "nombreSede": "Sede Valparaíso (Cousiño)",
-      "posicion": "-33.041316163921344,-71.62455875096417"
+      "posicion": [-71.624817, -33.040987]
     }
   ]
 }
