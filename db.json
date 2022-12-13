@@ -26,7 +26,7 @@
     {
       "id": 1,
       "idConductor": 1,
-      "idPasajero": null,
+      "idPasajero": 2,
       "idVehiculo": 1,
       "precio": 2500,
       "numPasajeros": 4,
